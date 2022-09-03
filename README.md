@@ -5,9 +5,9 @@ Este es un proyecto realizado en la Universidad De Oriente como parte de la mate
 que busca darle solución a una problemática en varias etapas de desarrollo, y que abarcó los temas de 
 diseño uml, estructuración de dato, gestión de archivos e interface grafica
 
-Integrantes
-BRAZÓN, EULISES
-LÓPEZ, JOSÉ
+Integrantes<br />
+BRAZÓN, EULISES<br />
+LÓPEZ, JOSÉ<br />
 
 realizdo en 2019
 
